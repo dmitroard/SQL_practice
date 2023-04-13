@@ -6,6 +6,7 @@
 Список курсов:
 
 1. [SQL Academy](https://sql-academy.org/)
+2. [Yandex.Practicum](https://practicum.yandex.ru/)
 
 Надеюсь, это репозиторий поможет вам оценить мои навыки работы с SQL или вам будет просто интересно просмотреть.
 
