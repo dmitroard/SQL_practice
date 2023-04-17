@@ -7,6 +7,7 @@
 
 1. [SQL Academy](https://sql-academy.org/)
 2. [Yandex.Practicum](https://practicum.yandex.ru/)
+3. [Интерактивный тренажер по SQL](https://stepik.org/course/63054/)
 
 Надеюсь, это репозиторий поможет вам оценить мои навыки работы с SQL или вам будет просто интересно просмотреть.
 
